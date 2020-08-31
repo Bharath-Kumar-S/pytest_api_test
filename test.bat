@@ -1,0 +1,1 @@
+pytest -v -m "backend" --html=report.html --self-contained-html
